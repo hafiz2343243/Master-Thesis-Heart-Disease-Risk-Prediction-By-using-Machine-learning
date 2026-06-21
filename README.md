@@ -1,0 +1,1 @@
+The objective is to classify patients into Low-Risk and High-Risk heart disease groups using clinical health features. The project evaluates model performance before and after hyperparameter tuning to determine the most effective classifier.
